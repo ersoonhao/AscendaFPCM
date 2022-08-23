@@ -1,0 +1,11 @@
+id,first_name,last_name,phone,email,created_at,updated_at,card_id,card_pan,card_type
+398b9697-9e1f-4289-8db5-7918abf38d28,Sherise,Bailey,6593674229,Sherise.Bailey@gmail.com,13:35.9,13:35.9,5ed2aa6f-4644-4882-8d00-a290581d8e37,6771-8994-1929-8285,scis_platinummiles
+398b9697-9e1f-4289-8db5-7918abf38d28,Sherise,Bailey,6593674229,Sherise.Bailey@gmail.com,13:35.9,13:35.9,508476c1-1d2b-4c49-8169-ce95998ffe0d,4244-7971-7796-4011,scis_shopping
+398b9697-9e1f-4289-8db5-7918abf38d28,Sherise,Bailey,6593674229,Sherise.Bailey@gmail.com,13:35.9,13:35.9,65f46e94-e2af-4a78-834c-9917dd8e2961,5168-7420-5532-4788,scis_platinummiles
+4c96e1df-4f1b-4f40-9930-d521db013c0d,Hong,Boehm,6593469909,Hong.Boehm@gmail.com,13:37.0,13:37.0,1b880a92-0136-4393-86b5-d7658bd6e79e,4.19E+12,scis_freedom
+4c96e1df-4f1b-4f40-9930-d521db013c0d,Hong,Boehm,6593469909,Hong.Boehm@gmail.com,13:37.0,13:37.0,9364fcbc-e603-43e9-8964-24692ef5e300,4893-0040-5146-5650,scis_shopping
+2ee568eb-9293-4d9c-8c5b-ab312d4a1ba0,Hosea,Schmeler,6583515665,Hosea.Schmeler@hotmail.com,13:39.9,13:39.9,ef640035-f129-4525-a3c1-014f3e56f8a2,4.22E+12,scis_shopping
+2ee568eb-9293-4d9c-8c5b-ab312d4a1ba0,Hosea,Schmeler,6583515665,Hosea.Schmeler@hotmail.com,13:39.9,13:39.9,098fb83b-9dd6-4ab9-955e-d6be8890eac8,4.58E+12,scis_freedom
+6b548a95-4b65-4c56-8e3e-674bb5aca20b,Kendrick,Conroy,6596538922,Kendrick.Conroy@gmail.com,13:41.5,13:41.5,a46b6ec6-c070-4130-9ec2-ef1b72849b74,4.74E+12,scis_freedom
+6b548a95-4b65-4c56-8e3e-674bb5aca20b,Kendrick,Conroy,6596538922,Kendrick.Conroy@gmail.com,13:41.5,13:41.5,1643234b-909e-46d0-801f-9bd3ac0ec2c4,5569-8147-7278-4225,scis_platinummiles
+6b548a95-4b65-4c56-8e3e-674bb5aca20b,Kendrick,Conroy,6596538922,Kendrick.Conroy@gmail.com,13:41.5,13:41.5,ebada45e-cd19-4b5d-8202-cc43850713e2,4.37E+12,scis_freedom
