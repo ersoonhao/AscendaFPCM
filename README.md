@@ -1,5 +1,5 @@
 
-#Architecture at a glance (Multi Region Deployment replicated in Seoul & Singapore Regions)
+# Architecture at a glance (Multi Region Deployment replicated in Seoul & Singapore Regions)
 ![image](https://user-images.githubusercontent.com/65384703/186190905-7dcc945e-559f-41e4-9e3e-de3c1dfc4c84.png)
 
 
