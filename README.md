@@ -30,6 +30,7 @@ To obtain log files please do the following:
 - Go to: AWS Console > Elastic Beanstalk > Itsag1t42022backend2-env > Logs > Request Full Logs > Download All Zip Files (or just download the zip file for instance id i-0b3e53456dd355cba)
 - Unzip the files and go to path /var/log/web.stdout.log
 
-#Reuploaded from a private organization as part of SMU-X Project IT-Solution Architecture CS301
-#AWS Infrastructure has been torn down. This repo won't run as keys are managed by AWS Secrets Manager which has been long deactivated. 
-#Contributors: @ssjuan, @simshengqin, @nicoonnicolas, @givemewaffles, @rxtan
+# Notes & Acknowledgement
+Reuploaded from a private organization as part of SMU-X Project IT-Solution Architecture CS301
+AWS Infrastructure has been torn down. This repo won't run as keys are managed by AWS Secrets Manager which has been long deactivated. 
+Contributors: @ssjuan, @simshengqin, @nicoonnicolas, @givemewaffles, @rxtan
